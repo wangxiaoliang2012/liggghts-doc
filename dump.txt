@@ -11,6 +11,7 @@ dump command :h3
 
 [Syntax:]
 
+blablabla
 dump ID group-ID style N file args :pre
 
 ID = user-assigned name for the dump :ulb,l
